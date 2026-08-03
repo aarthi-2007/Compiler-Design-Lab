@@ -12,3 +12,4 @@ This repository contains Compiler Design Lab experiments implemented using FLEX 
 - Experiment 4 - Variable Recognition
 - Experiment 5 - Control Structure Recognition
 - Experiment 6 - Calculator using FLEX and BISON
+- Experiment 7 - Generate three address code for a simple program using LEX and YACC
